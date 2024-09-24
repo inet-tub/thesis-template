@@ -1,0 +1,9 @@
+*_region_.tex
+/auto/
+*.aux
+*.log
+*.out
+/example.pdf
+*.synctex.gz
+*.toc
+*.unq
